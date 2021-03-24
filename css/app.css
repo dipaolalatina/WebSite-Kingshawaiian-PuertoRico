@@ -775,13 +775,13 @@ a:hover{
 
 @media (min-width:1080px) {
     .altura-700{
-        height: 720px;
+        height: 650px;
     }
 }
 
 @media (min-width:1800px) {
     .altura-700{
-        height: 920px;
+        height: 650px;
     }
 }
 
@@ -860,6 +860,18 @@ a:hover{
 
 @media (min-width: 1200px){
     .container, .container-lg, .container-md, .container-sm, .container-xl {
-        max-width: 1800px;
+        max-width: 81rem;
     }
+}
+
+.icon-king-search{
+    fill: #fff;
+    width: 25px;
+    height: 25px;
+}
+
+.icon-cart{
+    fill: #fff;
+    width: 25px;
+    height: 25px;
 }
